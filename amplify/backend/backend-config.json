@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "lab845e2e9bf": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
